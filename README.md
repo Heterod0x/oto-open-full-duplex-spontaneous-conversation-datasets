@@ -15,6 +15,9 @@ Full‑duplex means both parties can speak at the same time without waiting for 
 - Mid term: Establish prototype-scale collection, evaluation procedures, and metadata specs.
 - Long term: Grow toward 10M hours and release datasets in staged, policy‑compliant ways.
 
+### Language roadmap
+We will begin with English as the first step, then expand to multiple languages in phases. The expansion pace and language priority will be guided by community discussion, ethical considerations, and data availability. Our long‑term goal is a diverse, multilingual, and representative corpus while maintaining strong privacy and consent standards.
+
 ### Scope
 - Spontaneous small‑talk (task‑free or loose‑goal)
 - Conversation phenomena: overlap, backchannels, repairs, silences
@@ -40,6 +43,14 @@ Links (will be updated)
 - When opening a new Issue or Discussion, briefly state background, purpose, and expected impact.
 - Keep PRs minimal and link them to related discussions or issues.
 - English or Japanese contributions are both welcome.
+
+### About OTO (for Hugging Face Organization Card)
+OTO is a project focused on end‑to‑end, full‑duplex conversational AI and large‑scale spontaneous dialogue datasets. We explore speech processing across overlapping talk, backchannels, interruptions, and collaborative repair—phenomena essential to human‑like interaction. Our work emphasizes:
+- privacy‑first data collection and release policies,
+- reproducible evaluation and metadata specs,
+- open community discussions to shape standards and best practices.
+
+We build on modern deep learning tooling and follow rigorous data processing, feature design, and recipe‑driven workflows to enable comprehensive experimentation in full‑duplex conversation research. If you are interested in contributing datasets, evaluation ideas, or tooling, please join the discussions.
 
 ### License
 Licensing for discussions and design docs is being finalized. Dataset releases may carry source‑specific terms. Once decided, this README and LICENSE will be updated.
