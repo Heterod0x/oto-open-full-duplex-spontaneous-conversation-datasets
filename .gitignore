@@ -2,6 +2,7 @@
 Lessons.md
 ERROR_SOLUTIONS/
 PROJECT_STRUCTURE.md
+.cursorrules
 
 # Node & OS defaults (future-proofing)
 node_modules/

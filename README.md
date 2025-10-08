@@ -41,9 +41,6 @@ Links (will be updated)
 - Keep PRs minimal and link them to related discussions or issues.
 - English or Japanese contributions are both welcome.
 
-### Repository structure
-This repo is documentation‑driven. See `PROJECT_STRUCTURE.md` for a high‑level map of files (note: some local docs may be git‑ignored).
-
 ### License
 Licensing for discussions and design docs is being finalized. Dataset releases may carry source‑specific terms. Once decided, this README and LICENSE will be updated.
 
