@@ -1,0 +1,14 @@
+# Exclude local docs from git commits
+Lessons.md
+ERROR_SOLUTIONS/
+PROJECT_STRUCTURE.md
+
+# Node & OS defaults (future-proofing)
+node_modules/
+.DS_Store
+dist/
+build/
+.env*
+coverage/
+
+
